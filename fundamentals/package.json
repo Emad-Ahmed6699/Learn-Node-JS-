@@ -1,0 +1,18 @@
+{
+  "name": "emadapp",
+  "version": "1.0.0",
+  "description": "noting atall",
+  "main": "index2.js",
+  "scripts": {
+    "start:dev": "node --watch index2.js"
+  },
+  "keywords": [
+    "node",
+    "js"
+  ],
+  "author": "emad",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
